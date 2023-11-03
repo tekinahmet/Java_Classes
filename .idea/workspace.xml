@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de75823e-1411-467a-9dbb-bd3a0c6162c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day02_datatypes/C01Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day02_datatypes/C02Typcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day02_datatypes/C03WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day02_datatypes/C04ScannerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day02_datatypes/C05ScannerClass02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day03scannerclasses/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day03scannerclasses/ScannerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day03scannerclasses/ScannerClass02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day03scannerclasses/ScannerClass03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day03scannerclasses/ScannerClass04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C01PostPreIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C02LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C03IfStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C04IfStatement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C05IfStatement03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C06IfStatement04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C07IfStatement05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C08SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04logical_operators_if_switch_statements/C09SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day05ternarystatement_stringmanipulations/C01TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day05ternarystatement_stringmanipulations/C03StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day05ternarystatement_stringmanipulations/C03TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C01StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C02StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C03StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C04StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C05StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C06StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06string_manipulations_loops/C07ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C01ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C02ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C03ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C04ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C05ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C06ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07loops/C7WhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08_whileloop_dowhileloop/C01WhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08_whileloop_dowhileloop/C02whileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08_whileloop_dowhileloop/C03DoWhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08_whileloop_dowhileloop/C04DoWhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08_whileloop_dowhileloop/C05DoWhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09arrays_foreach_loop/C01Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09arrays_foreach_loop/C02Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09arrays_foreach_loop/C03Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10multiple_arrays_arraylists/C01Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10multiple_arrays_arraylists/C02MultidimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10multiple_arrays_arraylists/C03ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10multiple_arrays_arraylists/C04ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11arraylists_method_creation_method_overloading_varargs_pass_by_value/C01ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11arraylists_method_creation_method_overloading_varargs_pass_by_value/C02MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11arraylists_method_creation_method_overloading_varargs_pass_by_value/C03MethodOverlooding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11arraylists_method_creation_method_overloading_varargs_pass_by_value/C04Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11arraylists_method_creation_method_overloading_varargs_pass_by_value/C05PassByValuePassByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12daytime_classes_enums/C01DayTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12daytime_classes_enums/C02DateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12daytime_classes_enums/EnumRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12daytime_classes_enums/UsStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day13_stringbuilder_stringbuffer_accmod/C01StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day13_stringbuilder_stringbuffer_accmod/C02AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day13_stringbuilder_stringbuffer_accmod/C03AccessModifiersClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C01Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C02StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C03Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C04Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C05Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C06Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14constructors_oop/C07AminalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C01Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C02Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C03Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C04Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C06AnimalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C07Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C08Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C09Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day15oop/C10Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C01Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C02Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C03Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C04AnimalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C05Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C06StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C07Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C08Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C09Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16oop/C10Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Ac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C01Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C02Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C03Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C04Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C05Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C06AnimalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/C07Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/CarRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C00Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C01Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C02Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C03Carnivorous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C04Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C05CatRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C06Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop_static_keyword/C07StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day19exceptions/C01Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day19exceptions/C02Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day19exceptions/C03Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/C01Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/C02Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/GradeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/IllegalArgumentsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/IllegalNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/MyFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20exceptions/NameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day21collections/C01LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day21collections/C02linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day21collections/C03Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day22collections_maps/C01Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day22collections_maps/C02Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day22collections_maps/C03Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day22collections_maps/C04Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day22collections_maps/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day23iterators_lambda/BlockRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day23iterators_lambda/C01MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day23iterators_lambda/C02HashMapMechanism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day23iterators_lambda/C03StaticAndInstanceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day23iterators_lambda/C04Iterators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day23iterators_lambda/C05Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day24lambda/C01Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day24lambda/C02Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day24lambda/C03Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day25lambda/C01Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day25lambda/C02Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day25lambda/C03Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day25lambda/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day25lambda/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day25lambda/myTextFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/miniproject/busticketcalsulation/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/miniproject/busticketcalsulation/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/miniproject/busticketcalsulation/TicketReservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice01/Q01_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice01/Q02_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice01/Q03_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice01/Q04_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice01/Q05_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice01/Q06_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice02/Q01_IfStatement_SalaryBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice02/Q02_Regex_FullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice02/Q03_NestedLoop_NumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice02/Q04_ArrayList_GradeAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice02/Q05_DoWhile_GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice03/Q01_Ascii_OneTohundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice03/Q02_ForLoop_PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice03/Q03_Arrays_Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice03/Q04_DateTime_DiceSecond.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-11.0.15/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-11.0.15/lib/src.zip!/java.base/java/util/ArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day05ternarystatement_stringmanipulations/C03StringManipulation.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day15oop/C03Dog.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day15oop/C06AnimalRunner.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day16oop/C01Animal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/practices_dt/practice03/Q04_DateTime_DiceSecond.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="heqbh7nt" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2RhfWxihlv1JCO3Tn00jJg63DBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/BATCH 179-180 QA ENG/IdeaProjects/Java_Classes&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.C01TernaryOperator">
+    <configuration name="C01TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05ternarystatement_stringmanipulations.C01TernaryOperator" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05ternarystatement_stringmanipulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03IfStatement01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C03IfStatement01" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03StringManipulation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05ternarystatement_stringmanipulations.C03StringManipulation" />
+      <module name="Batch 179 QA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05ternarystatement_stringmanipulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04IfStatement02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C04IfStatement02" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05IfStatement03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C05IfStatement03" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07IfStatement05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C07IfStatement05" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C01TernaryOperator" />
+        <item itemvalue="Application.C07IfStatement05" />
+        <item itemvalue="Application.C05IfStatement03" />
+        <item itemvalue="Application.C04IfStatement02" />
+        <item itemvalue="Application.C03IfStatement01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de75823e-1411-467a-9dbb-bd3a0c6162c9" name="Changes" comment="" />
+      <created>1687707269430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687707269430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

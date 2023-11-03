@@ -1,0 +1,5 @@
+We are about to end Core Java.
+Keep solving question from the Java Question Bank.
+Try to do small projects by yourself.
+Java is the most difficult topic in the bootcamp.
+If you learn Java well others will be a piece of cake.
