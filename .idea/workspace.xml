@@ -237,13 +237,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01TernaryOperator">
-    <configuration name="C01TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05ternarystatement_stringmanipulations.C01TernaryOperator" />
+  <component name="RunManager" selected="Application.HW">
+    <configuration name="C01Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22collections_maps.C01Queue" />
       <module name="Java_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05ternarystatement_stringmanipulations.*" />
+          <option name="PATTERN" value="day22collections_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +251,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03IfStatement01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C03IfStatement01" />
+    <configuration name="C02Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22collections_maps.C02Maps" />
       <module name="Java_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
+          <option name="PATTERN" value="day22collections_maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02StudentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14constructors_oop.C02StudentRunner" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14constructors_oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21collections.C03Sets" />
+      <module name="Java_Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day21collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,38 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04IfStatement02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C04IfStatement02" />
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22collections_maps.HW" />
       <module name="Java_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05IfStatement03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C05IfStatement03" />
-      <module name="Java_Classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07IfStatement05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04logical_operators_if_switch_statements.C07IfStatement05" />
-      <module name="Java_Classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04logical_operators_if_switch_statements.*" />
+          <option name="PATTERN" value="day22collections_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01TernaryOperator" />
-        <item itemvalue="Application.C07IfStatement05" />
-        <item itemvalue="Application.C05IfStatement03" />
-        <item itemvalue="Application.C04IfStatement02" />
-        <item itemvalue="Application.C03IfStatement01" />
+        <item itemvalue="Application.HW" />
+        <item itemvalue="Application.C02Maps" />
+        <item itemvalue="Application.C01Queue" />
+        <item itemvalue="Application.C03Sets" />
+        <item itemvalue="Application.C02StudentRunner" />
       </list>
     </recent_temporary>
   </component>

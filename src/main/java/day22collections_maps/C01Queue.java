@@ -15,13 +15,13 @@ public class C01Queue {
 use it whenever you need work with FIFO and LIFO
  */
     public static void main(String[] args) {
-        Queue<String> food = new LinkedList<>();
+        Queue<String> food = new LinkedList<>();//queue is an interface so we cannot create an object using queue..
             food.add("Meat");
             food.add("Cheese");
             food.add("Egg");
             food.add("Fruit");
             food.add("Candy");
-        System.out.println(food);//[Meat, Cheese, Egg, Fruit, Candy]
+        System.out.println(food);//[Meat, Cheese, Egg, Fruit, Candy], linkedlist --> insertion order --> nodes
 
         Queue<String> f = new PriorityQueue<>();
             f.add("Meat");

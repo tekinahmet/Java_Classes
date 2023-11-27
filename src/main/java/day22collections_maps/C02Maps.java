@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class C02Maps {
     public static void main(String[] args) {
-        HashMap<String, Integer> stdAges = new HashMap<>();
+        HashMap<String, Integer> stdAges = new HashMap<>();//entryset
             stdAges.put("Tom",76);//Tom is key, 79 is value
             stdAges.put("Angelina",55);
             stdAges.put("Brad",61);
@@ -42,10 +42,13 @@ public class C02Maps {
         Set<Map.Entry<String, Integer>> entries = stdAges.entrySet();
         System.out.println(entries);//[Tom=76, Angelina=55, Leo=43, Brad=34, Linda=23]
 
+        int sum=0;
+
             for (Map.Entry<String, Integer> w:entries) {
-                int sum = w.getKey().length()+w.getValue();
-                System.out.println("For " + w.getKey() + " : " + sum);
+                sum += w.getKey().length()+w.getValue();
+//                System.out.println("For " + w.getKey() + " : " + sum);
             }
+            System.out.println("sum = " + sum);
 /*
         For Tom : 79
         For Angelina : 63
@@ -87,5 +90,6 @@ public class C02Maps {
 
             stdAges.remove("Leo", 43);
         System.out.println(stdAges);//{Angelina=100, Carl=16, Brad=34, Linda=23}
+
     }
 }

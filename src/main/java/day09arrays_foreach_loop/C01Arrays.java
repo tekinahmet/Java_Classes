@@ -34,7 +34,7 @@ public class C01Arrays {
 //        2. create an integer Array, find the multiplication of all element
 
         //===>Arrays
-        int[] ages = {12, 5, 7, 1};
+        int[] ages = {12, 5, 7, 8};
         Arrays.sort(ages);
         System.out.println(Arrays.toString(ages));//[1, 5, 7, 12]
         int sum = 1;
@@ -47,7 +47,7 @@ public class C01Arrays {
         /*
             for-each-loop is so easy to use, that is why if it is possible we prefer to use for-each-loop
             sometimes we need to work with indexes,if you need to use indexes, using for-each-loop is not possible
-            for-each-loop can be used just with with "Arrays" and "Collections"
+            for-each-loop can be used just with "Arrays" and "Collections"
          */
         int result =1;
         for(int w : ages){

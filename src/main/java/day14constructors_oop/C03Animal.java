@@ -1,7 +1,7 @@
 package day14constructors_oop;
 /*
 1. We create parent class and put common method into the parent class to
-        i. prevent repetation
+        i. prevent repetition
         ii.make maintenance easy
         iii.make update easily
         iv.save time in code typing
@@ -13,14 +13,14 @@ package day14constructors_oop;
   "private" methods cannot be inherited by "child classes".
 4.If a child class uses class members from parent class it is called "inheritance".
 5.Object-Oriented Programming Concept has 4 principals
-        i.inheritence
+        i.inheritance
         ii.encapsulation
         iii.polymorphism
         iv.abstraction
 6.There are different types of inheritance
-        i.Multiple Inheritence: Java does not support it. Java supports "Single Inheritance".
-        ii.MultiLevel Inhertitance: Java supports this.
-        iii.Hierarchical Inheriteance: It is the combination of "MultiLevel Inhertitance" and "Single Inheritance"
+        i.Multiple Inheritance: Java does not support it. Java supports "Single Inheritance".
+        ii.MultiLevel Inheritance: Java supports this.
+        iii.Hierarchical Inheritance: It is the combination of "MultiLevel Inheritance" and "Single Inheritance"
  */
 
 public class C03Animal {
